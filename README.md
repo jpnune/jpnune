@@ -163,8 +163,8 @@ Node.js          ██████░░░░░░░░░░░░░░   
 
 ### 💭 Citação que me motiva
 
-> *"A única constante na vida humana é a necessidade absoluta de mudar."*
-> — Isaac Asimov.
+> *"A educação não transforma o mundo. A educação muda as pessoas. Pessoas transformam o mundo." — Paulo Freire.*
+
 
 ---
 
