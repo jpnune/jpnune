@@ -16,9 +16,8 @@ Sou um profissional apaixonado por tecnologia, em plena transição de carreira 
 
 - 🌱 Estudando **React**, **TypeScript**, **Node.js** e **Python**
 - 🏗️ Trabalhando em um **ERP completo** com Electron + TypeScript (projeto pessoal)
-- 📍 Baseado em **São José dos Campos, SP**
-- 💬 Me pergunte sobre: **JavaScript, Python, HTML/CSS, Git**
-- 🎯 Objetivo: Criar soluções web impactantes e eficientes
+- 📍 Moro em **São José dos Campos, SP**
+- 🎯 Objetivo: Criar ferramentas que ajude no ramo imobiliário
 
 ---
 
@@ -129,24 +128,8 @@ Sou um profissional apaixonado por tecnologia, em plena transição de carreira 
 
 | Curso | Instituição | Status |
 |-------|------------|--------|
-| Full Stack Development | ProgramadorBR | ✅ Em andamento |
-| Desenvolvimento Web | EBAC (Escola Britânica de Artes Criativas) | ✅ Em andamento |
-| Ciência de Dados e Inteligência Artificial | Universidade Dom Bosco | ✅ Concluído |
-| Versionamento com Git e GitHub | Digital Innovation One (DIO) | ✅ Concluído |
-| Contribuição Open Source | Digital Innovation One (DIO) | ✅ Concluído |
-| Geek University | Udemy | ✅ Concluído |
+| Desenvolvimento Web | EBAC (Escola Britânica de Artes Criativas) | ✅ Concluído |
 
----
-
-## 🏆 Conquistas
-
-<div align="center">
-
-![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark_x2-Achievement-blue?style=flat-square)
-![YOLO](https://img.shields.io/badge/🎲_YOLO-Achievement-orange?style=flat-square)
-![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-Achievement-yellow?style=flat-square)
-
-</div>
 
 ---
 
@@ -170,7 +153,7 @@ Node.js          ██████░░░░░░░░░░░░░░   
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jpnune)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpnune)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
+
 
 </div>
 
@@ -180,8 +163,8 @@ Node.js          ██████░░░░░░░░░░░░░░   
 
 ### 💭 Citação que me motiva
 
-> *"O sucesso é a soma de pequenos esforços repetidos dia após dia."*
-> — Robert Collier
+> *"A única constante na vida humana é a necessidade absoluta de mudar."*
+> — Isaac Asimov.
 
 ---
 
