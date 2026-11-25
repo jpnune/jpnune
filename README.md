@@ -76,6 +76,9 @@ Sou um profissional apaixonado por tecnologia, em plena transição de carreira 
         <a href="https://github.com/jpnune/erp" target="_blank">
           <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github" />
         </a>
+         <a href="" target="_blank">
+          <img src="https://img.shields.io/badge/Demo_Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+        </a>
         <p>Sistema ERP completo desenvolvido com Electron e TypeScript. Projeto pessoal ambicioso que abrange módulos de gestão, relatórios e operações empresariais.</p>
         <p><b>Stack:</b> TypeScript · Electron · SQLite</p>
       </div>
@@ -100,6 +103,9 @@ Sou um profissional apaixonado por tecnologia, em plena transição de carreira 
       <div align="center">
         <a href="https://github.com/jpnune/exercicio-efood" target="_blank">
           <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github" />
+        </a>
+        <a href="https://exercicio-efood-ten.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Demo_Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
         </a>
         <p>Clone de aplicativo de delivery de comida desenvolvido como exercício prático de React + TypeScript. Implementa carrinho de compras, listagem de restaurantes e checkout.</p>
         <p><b>Stack:</b> TypeScript · React · Redux</p>
