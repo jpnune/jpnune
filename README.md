@@ -85,9 +85,11 @@ Sou um profissional apaixonado por tecnologia, em plena transição de carreira 
     <td width="50%">
       <h3 align="center">🏠 Site Biografia</h3>
       <div align="center">
-        [site visual vercel](https://site-biografia.vercel.app/)
         <a href="https://site-biografia.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github" />
+        </a>
+        <a href="https://site-biografia.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Demo_Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
         </a>
         <p>Uma landing page conceitual de alta fidelidade visual com estética Steampunk Industrial Futurista. O projeto une narrativa biográfica e computação visual interativa para apresentar projetos em Engenharia de Software, Arquitetura de Sistemas e Agentes de IA.</p>
         <p><b>Stack:</b> TypeScript · React</p>
