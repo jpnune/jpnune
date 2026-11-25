@@ -76,7 +76,7 @@ Sou um profissional apaixonado por tecnologia, em plena transição de carreira 
         <a href="https://github.com/jpnune/erp" target="_blank">
           <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github" />
         </a>
-         <a href="https://erp-gold-xi.vercel.app/login" target="_blank">
+         <a href="https://erp-gold-xi.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/Demo_Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
         </a>
         <p>Sistema ERP completo desenvolvido com Electron e TypeScript. Projeto pessoal ambicioso que abrange módulos de gestão, relatórios e operações empresariais.</p>
