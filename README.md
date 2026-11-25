@@ -88,7 +88,7 @@ Sou um profissional apaixonado por tecnologia, em plena transição de carreira 
         <a href="https://site-biografia.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github" />
         </a>
-        <p>Aplicação web para gestão e listagem de imóveis. Desenvolvida com TypeScript e componentização moderna para navegação intuitiva e busca de propriedades.</p>
+        <p>Uma landing page conceitual de alta fidelidade visual com estética Steampunk Industrial Futurista. O projeto une narrativa biográfica e computação visual interativa para apresentar projetos em Engenharia de Software, Arquitetura de Sistemas e Agentes de IA.</p>
         <p><b>Stack:</b> TypeScript · React</p>
       </div>
     </td>
