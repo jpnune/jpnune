@@ -85,6 +85,7 @@ Sou um profissional apaixonado por tecnologia, em plena transição de carreira 
     <td width="50%">
       <h3 align="center">🏠 Site Biografia</h3>
       <div align="center">
+        [site visual vercel](https://site-biografia.vercel.app/)
         <a href="https://site-biografia.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github" />
         </a>
