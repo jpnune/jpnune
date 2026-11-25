@@ -83,9 +83,9 @@ Sou um profissional apaixonado por tecnologia, em plena transição de carreira 
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🏠 Antropia Imóveis</h3>
+      <h3 align="center">🏠 Site Biografia</h3>
       <div align="center">
-        <a href="https://github.com/jpnune/antropia-imoveis" target="_blank">
+        <a href="https://site-biografia.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github" />
         </a>
         <p>Aplicação web para gestão e listagem de imóveis. Desenvolvida com TypeScript e componentização moderna para navegação intuitiva e busca de propriedades.</p>
