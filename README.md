@@ -66,8 +66,8 @@ Sou um profissional apaixonado por tecnologia, em plena transição de carreira 
         <a href="https://jpnune.github.io/jogo-da-memoria/" target="_blank">
           <img src="https://img.shields.io/badge/Demo_Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
         </a>
-        <p>Jogo da memória interativo desenvolvido durante o curso Full Stack ProgramadorBr. Projeto completo em HTML, CSS e JavaScript vanilla com lógica de embaralhamento de cartas e controle de estado.</p>
-        <p><b>Stack:</b> JavaScript · CSS · HTML</p>
+        <p>Monorepo do ecossistema de locação, venda, gestão imobiliária e assessoria do corretor de imóveis João Paulo S. Nunes.</p>
+        <p><b>Stack:</b> JavaScript · CSS · HTML · python · Postgres · typescript</p>
       </div>
     </td>
     <td width="50%">
