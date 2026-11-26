@@ -58,9 +58,9 @@ Sou um profissional apaixonado por tecnologia, em plena transição de carreira 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🎮 Jogo da Memória</h3>
+      <h3 align="center">🎮 Site Imobiliaria</h3>
       <div align="center">
-        <a href="https://github.com/jpnune/jogo-da-memoria" target="_blank">
+        <a href="https://github.com/jpnune/site-corretor-joao-paulo-nunes/tree/main" target="_blank">
           <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github" />
         </a>
         <a href="https://jpnune.github.io/jogo-da-memoria/" target="_blank">
