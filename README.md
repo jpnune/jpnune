@@ -63,7 +63,7 @@ Sou um profissional apaixonado por tecnologia, em plena transição de carreira 
         <a href="https://github.com/jpnune/site-corretor-joao-paulo-nunes/tree/main" target="_blank">
           <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github" />
         </a>
-        <a href="https://jpnune.github.io/jogo-da-memoria/" target="_blank">
+        <a href="https://corretorjoaopaulosnunes.com.br/" target="_blank">
           <img src="https://img.shields.io/badge/Demo_Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
         </a>
         <p>Monorepo do ecossistema de locação, venda, gestão imobiliária e assessoria do corretor de imóveis João Paulo S. Nunes.</p>
@@ -76,7 +76,7 @@ Sou um profissional apaixonado por tecnologia, em plena transição de carreira 
         <a href="https://github.com/jpnune/erp" target="_blank">
           <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github" />
         </a>
-         <a href="https://corretorjoaopaulosnunes.com.br/" target="_blank">
+         <a href="https://erp-gold-xi.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/Demo_Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
         </a>
         <p>Sistema ERP completo desenvolvido com Electron e TypeScript. Projeto pessoal ambicioso que abrange módulos de gestão, relatórios e operações empresariais.</p>
